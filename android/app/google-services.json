@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "161476938145",
+    "firebase_url": "https://air-conditioning-system-debfa-default-rtdb.firebaseio.com",
+    "project_id": "air-conditioning-system-debfa",
+    "storage_bucket": "air-conditioning-system-debfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161476938145:android:17aee4854d857810b7e3e0",
+        "android_client_info": {
+          "package_name": "com.example.air_conditioning_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc6sm9EoC4MRPtzAYZEQKYBbnNFTSwsek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
